@@ -1,7 +1,5 @@
 # Connect 4 AI Agent
 
-![image](https://github.com/SaadElDine/AI-Connect-4-Game/assets/113860522/6fef8394-d8e8-48f5-9ca0-277a3071a5b0)
-
 ## Game Overview
 
 - Connect 4 AI Agent is a sophisticated implementation of the classic Connect 4 game, enhanced with artificial intelligence capabilities using minimax, minimax with pruing and expectiminimax algorithms. This intelligent agent is designed to be unbeatable, providing players with a challenging and dynamic gaming experience. Additionally, the project includes a two-player mode for those who wish to play against each other.
